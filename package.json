@@ -1,0 +1,19 @@
+{
+  "name": "lane-drawings-v2-demo",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "@fontsource/open-sans": "^4.5.14",
+    "d3-ease": "^3.0.1",
+    "evergreen-ui": "^7.1.4",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "sweetalert2": "^11.7.3",
+    "vite": "^4.1.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
